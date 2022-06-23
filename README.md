@@ -1,13 +1,6 @@
 # MyServer
 
 MyServer is your own localhost server. you can setup PHP, Apache and MySQL servers on your android devices or linux like Ubuntu etc. MyServer is Developed for android terminal like Termux or GNURoot Debian terminal. You can setup your localhost server and access from internet. you can host your website and test your website.
-<br/><br/><br/>
-
-<p align="center">
-<img src="https://github.com/rajkumardusad/MyServer/blob/master/Scr/Screenshot_2018-08-03-20-16-17-1.png"/>
-</p>
-
-<br/><br/><br/>
 
 # How to use ?
 
@@ -66,7 +59,7 @@ Open the termux app and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rajkumardusad/MyServer.git`
+* `git clone https://github.com/Transmetal/MyServer-master`
 
 * `cd MyServer`
 
